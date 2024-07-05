@@ -1,0 +1,7 @@
+bs4
+requests
+pandas
+gradio-client
+langchain
+langchain-qdrant
+langchain-community
